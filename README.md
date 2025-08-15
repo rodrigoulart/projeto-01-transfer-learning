@@ -33,15 +33,13 @@ Este projeto marca o início dos desafios do bootcamp, mostrando como **aproveit
 
 ## 📂 Estrutura do Projeto
 
+```text
 projeto-01-transfer-learning/
-├── notebooks/
-│ └── transfer_learning.ipynb # Notebook principal
-├── imagens/
-│ └── grafico_treinamento.png # Gráfico de treino/validação
-├── models/ # Modelos treinados
-├── requirements.txt # Dependências
-└── README.md # Este arquivo
-
+├── README.md # Este arquivo
+├── grafico_treinamento.png # Gráfico de treino/validação
+├── projeto_transfer_learning_em_python.ipynb # Notebook principal
+└── requirements.txt # Dependências
+```
 
 ---
 
@@ -58,8 +56,8 @@ O modelo **MobileNetV2** apresentou resultados consistentes, atingindo alta acur
 
 ### 📈 Evolução do Treinamento
 
-![Gráfico de Treinamento](imagens/grafico_treinamento.png)  
-*(Adicione seu gráfico gerado no notebook na pasta `imagens`.)*
+![Gráfico de Treinamento](grafico_treinamento.png)  
+*(Adicione seu gráfico gerado no notebook no repositório.)*
 
 ---
 
@@ -81,7 +79,7 @@ jupyter notebook notebooks/transfer_learning.ipynb
 
 ---
 
-📚 Conceitos Aplicados
+## 📚 Conceitos Aplicados
 
 Transfer Learning: Aproveitamento de modelos pré-treinados
 
@@ -93,9 +91,9 @@ Avaliação de Modelos: Uso de métricas como acurácia, precisão, revocação 
 
 ---
 
-🏆 Créditos
+## 🏆 Créditos
 
-Desenvolvido como parte dos Desafios de Projetos do Bootcamp de Machine Learning da DIO em parceria com a BairesDev.
+Desenvolvido por *Rodrigo Goulart de Moraes*, como parte dos Desafios de Projetos do Bootcamp de Machine Learning da DIO em parceria com a BairesDev.
 
-📎 Repositório: github.com/rodrigoulart/projeto-01-transfer-learning
+## 📎 Repositório: github.com/rodrigoulart/projeto-01-transfer-learning
 
