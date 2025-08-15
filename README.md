@@ -35,6 +35,7 @@ Este projeto marca o início dos desafios do bootcamp, mostrando como **aproveit
 
 ```text
 projeto-01-transfer-learning/
+├── LICENCE # Arquivo de licença MIT
 ├── README.md # Este arquivo
 ├── grafico_treinamento.png # Gráfico de treino/validação
 ├── projeto_transfer_learning_em_python.ipynb # Notebook principal
