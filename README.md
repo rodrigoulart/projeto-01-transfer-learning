@@ -28,7 +28,7 @@ Nesse caso, utilizamos um dataset da Kaggle (Kaggle Cats and Dogs Dataset), para
 
 - **Python 3.10+**  
 - **TensorFlow / Keras**  
-- **NumPy / Pandas**  
+- **Pillow / Opencv-python**  
 - **Matplotlib / Seaborn**  
 - **Google Colab / Jupyter Notebook**  
 
