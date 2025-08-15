@@ -3,7 +3,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-rodrigoulart-black?logo=github)](https://github.com/rodrigoulart/projeto-01-transfer-learning)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15+-orange?logo=tensorflow)]
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Colab](https://img.shields.io/badge/Colab-Abrir%20Notebook-blue?logo=google-colab)](https://colab.research.google.com/drive/SEU_LINK_AQUI)
+[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange?logo=kaggle)](https://download.microsoft.com/download/3/e/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip)
+
 
 > Primeiro projeto do **Bootcamp Machine Learning** da [DIO](https://www.dio.me/) em parceria com a **BairesDev**.  
 > Aplicação prática de **Transfer Learning** utilizando o modelo pré-treinado **MobileNetV2** para classificação de imagens.
@@ -13,6 +15,7 @@
 ## 📌 Sobre o Projeto
 
 Este projeto marca o início dos desafios do bootcamp, mostrando como **aproveitar redes neurais pré-treinadas** para resolver problemas de classificação de imagens com alta precisão e baixo custo computacional.
+Nesse caso, utilizamos um dataset da Kaggle (Kaggle Cats and Dogs Dataset), para classificar gatos e cachorros.
 
 **Vantagens do Transfer Learning**:  
 - 🚀 Reduz o tempo de treinamento  
