@@ -94,6 +94,5 @@ Avaliação de Modelos: Uso de métricas como acurácia, precisão, revocação 
 ## 🏆 Créditos
 
 Desenvolvido por *Rodrigo Goulart de Moraes*, como parte dos Desafios de Projetos do Bootcamp de Machine Learning da DIO em parceria com a BairesDev.
-
-## 📎 Repositório: github.com/rodrigoulart/projeto-01-transfer-learning
+📎 Repositório: github.com/rodrigoulart/projeto-01-transfer-learning
 
