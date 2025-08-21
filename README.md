@@ -1,10 +1,10 @@
 # 🧠 Projeto 01 — Transfer Learning para Classificação de Imagens
 
-[![GitHub](https://img.shields.io/badge/GitHub-rodrigoulart-black?logo=github)](https://github.com/rodrigoulart/projeto-01-transfer-learning)
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15+-orange?logo=tensorflow)]
-[![Colab](https://img.shields.io/badge/Colab-Abrir%20Notebook-blue?logo=google-colab)](https://colab.research.google.com/drive/SEU_LINK_AQUI)
-[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange?logo=kaggle)](https://download.microsoft.com/download/3/e/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip)
+[![GitHub](https://img.shields.io/badge/GitHub-rodrigoulart-black?logo=github)](https://github.com/rodrigoulart/projeto-01-transfer-learning)  [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)  [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15+-orange?logo=tensorflow)]  [![Colab](https://img.shields.io/badge/Colab-Abrir%20Notebook-blue?logo=google-colab)](https://colab.research.google.com/drive/SEU_LINK_AQUI)  [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange?logo=kaggle)](https://download.microsoft.com/download/3/e/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip)
+
+
+
+
 
 
 > Primeiro projeto do **Bootcamp Machine Learning** da [DIO](https://www.dio.me/) em parceria com a **BairesDev**.  
@@ -97,6 +97,7 @@ Avaliação de Modelos: Uso de métricas como acurácia, precisão, revocação 
 
 ## 🏆 Créditos
 
-Desenvolvido por *Rodrigo Goulart de Moraes*, como parte dos Desafios de Projetos do Bootcamp de Machine Learning da DIO em parceria com a BairesDev.
+Desenvolvido por *Rodrigo Goulart de Moraes*, como parte dos Desafios de Projetos do Bootcamp de Machine Learning da DIO em parceria com a BairesDev.  
+
 📎 Repositório: github.com/rodrigoulart/projeto-01-transfer-learning
 
